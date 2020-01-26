@@ -96,3 +96,5 @@ public class Address {
     }
 
 }
+Get fetch<remote>
+
